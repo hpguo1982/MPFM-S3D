@@ -8,7 +8,7 @@ We provide pth of our MRANet trained on [GC10-Det]() dataset: [GC10.pth](https:/
 
 ### training and validation
 
-Our MPFM-S3D is implemented based on the [mmdetection-3.30](https://github.com/open-mmlab/mmdetection)
+Our MPFM-S3D is implemented based on the [mmdetection-3.3.0](https://github.com/open-mmlab/mmdetection)
 
 - **Training (using GC10 dataset as an example)**:  
   
