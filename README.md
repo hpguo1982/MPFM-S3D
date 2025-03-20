@@ -4,7 +4,7 @@ MPFM-S3D is a two-stage detector for strip steel surface defect detection.
 
 ### trained model
 
-We provide pth of our MRANet trained on [GC10-Det]() dataset: [GC10.pth](https://pan.baidu.com/s/1NaqebHmVrWv8A3PPgP0FgQ?pwd=a4aj) (Code: a4aj), and on the [Neu-Det]() dataset: [NEU.pth](https://pan.baidu.com/s/13QXfs_MtPXcIHRldjrf8SA?pwd=xyty) (Code: xyty).  
+We provide pth of our MPFM-S3D trained on [GC10-Det]() dataset: [GC10.pth](https://pan.baidu.com/s/1NaqebHmVrWv8A3PPgP0FgQ?pwd=a4aj) (Code: a4aj), and on the [Neu-Det]() dataset: [NEU.pth](https://pan.baidu.com/s/13QXfs_MtPXcIHRldjrf8SA?pwd=xyty) (Code: xyty).  
 
 ### training and validation
 
